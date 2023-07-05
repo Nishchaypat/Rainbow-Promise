@@ -1,25 +1,33 @@
-#Rainbow Promise 
+# Rainbow Promise
 
-Description
-This repository contains the source code and files for "The Rainbow Promise" website, which provides information and resources about same-sex marriage. The website aims to promote awareness, understanding, and equality for the LGBTQ+ community. Moreover, there is an additional feature to sign the petition. 
+Description:
 
-Software Used:
-The entire website is made on REPLIT, it is an amazing platform where you can code any languages online. It even runs the website on their servers.
+This repository contains the source code and files for the website "The Rainbow Promise," which serves as a comprehensive resource on same-sex marriage. The website's primary objective is to foster awareness, understanding, and equality for the LGBTQ+ community. Additionally, it offers a petition signing feature to allow visitors to show their support.
+
+Software Utilized:
+
+The entire website was developed using REPLIT, an exceptional online platform that facilitates coding in various programming languages. Moreover, REPLIT hosts and deploys the website on its servers.
 
 Usage:
-It is an interactive-informative website about same-sex marriage. Anyone seeking the knowledge for same-sex marriage can use it. It is extremely user-friendly. 
+
+"The Rainbow Promise" is an interactive and informative website dedicated to exploring the subject of same-sex marriage. It is designed to cater to individuals seeking knowledge and insights regarding this topic. The website boasts a highly user-friendly interface, ensuring a seamless browsing experience.
 
 Features:
---> Syncronised background change (every 4 secs)
---> Petition sigining page
---> On-screen video tabs 
---> Navaigation bar
---> Toggle Dark/ Light Mode 
---> Petition counter
+
+Synchronized background changes occurring every four seconds.
+Petition signing page for expressing support.
+On-screen video tabs for enhanced engagement.
+Navigation bar for easy website navigation.
+Dark/Light mode toggle for customizable viewing preferences.
+Petition counter to track the number of signatures received.
+Error handling for invalid inputs on the petition sign-in page.
 
 Author:
 Nishchay Patel
 
+Explore the website at: https://the-rainbow-promise--nishchaypat.repl.co/
+For direct access to the petition page, visit: https://unit6project.nishchaypat.repl.co/
 
-Check out the website here: https://the-rainbow-promise--nishchaypat.repl.co/
+
+
 

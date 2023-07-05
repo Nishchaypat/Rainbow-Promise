@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+  <div class="petition" id="petition">
+
+    <h2>Sign Our Petition 📢</h2>
+    <div class="petition-container">
+
+
+      <div class="petition-para">
+        We, the undersigned, believe that all individuals should have the right to marry the person they love,
+        regardless of their gender identity or sexual orientation. Denying same-sex couples the right to marry is a
+        violation of their fundamental human rights and perpetuates discrimination and inequality.Legalizing same-sex
+        marriage would not only provide couples with legal protections and benefits, such as inheritance rights,
+        healthcare coverage, and tax benefits, but it would also affirm their dignity and value as equal members of
+        society.We urge lawmakers to support legislation that legalizes same-sex marriage and to recognize the
+        importance of ensuring that all individuals are treated with respect and equality under the law. It is time to
+        end the discrimination and stigma that same-sex couples face and to grant them the right to marry the person
+        they love.
+      </div>
+
+      <div class="signatures">
+        <p>🖊️ Josh from Georgia, Signed it.</p>
+        <p>🖊️ Tyler from California, Signed it.</p>
+        <p>🖊️ Miley from Tennessee, Signed it.</p>
+        <p>🖊️ James from Texas, Signed it.</p>
+        <p>🖊️ John from Tennessee, Signed it.</p>
+        <p id="counter">🖊️ 30,000 people have signed this petition and support this cause.</p>
+      </div>
+
+    </div>
+
+    <!--- Sign Petition Form --->
+    <form id="sign-petition">
+      <label>Enter your name:</label>
+      <input id="name">
+      <label>Enter Hometown:</label>
+      <input id="Hometown">
+      <label>Enter Email:</label>
+      <input id="Email">
+    </form>
+    <button id="sign-now-button">Sign Now</button>
+    <button id="theme-toggle">Change_Mode</button>
+  </div>
+  <!-- Modal -->
+  <div id="thanks-modal" class="modal">
+
+    <!-- Modal content -->
+    <div class="modal-content">
+      <div id="modal-text-container">
+        <p id="thanks-modal-content"> Thank you for your time and support </p>
+        <button id="close">Close</button>
+      </div>
+      <img id="modal-image" src="p5.png" alt="Thank you!" />
+    </div>
+
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>

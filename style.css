@@ -1,0 +1,132 @@
+/* Reset some default styles */
+body, figure, h1, h2, p, ul, li {
+  margin: 0;
+  padding: 0;
+}
+
+/* Body styles */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  transition: all 0.3s ease;
+}
+
+/* Container styles */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+/* Header styles */
+header {
+  color: black;
+  text-align: center;
+  padding: 220px;
+  background-image: url('Headerpic.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: repeat;
+}
+header h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+.tagline {
+  font-size: 28px;
+  font-weight: bold;
+  color: black;
+}
+
+/* Navigation styles */
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: black;
+  transition: transform 0.3s ease-in-out;
+  z-index: 9999;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+nav li {
+  margin: 0 10px;
+}
+nav a {
+  display: block;
+  padding: 10px;
+  color: green;
+  text-decoration: none;
+}
+nav a:hover {
+  background-color: white;
+}
+nav.scroll-down {
+  position: fixed;
+  transform: translateY(-100%);
+}
+
+nav.scroll-up {
+  position: fixed;
+  transform: translateY(0);
+}
+
+/* Main section styles */
+main {
+  padding: 40px;
+}
+
+section {
+  margin-bottom: 40px;
+}
+h2 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+.about-image {
+  width: 300px;
+  height: 200px; 
+}
+.about-limage {
+  width: 60px;
+  height: 50px; 
+}
+
+/* FAQ section styles */
+.faq-list {
+  list-style-type: none;
+}
+.faq-list li {
+  margin-bottom: 20px;
+}
+h3 {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+/* Footer styles */
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  width: 100%;
+}
+.footer-text {
+  font-size: 14px;
+}
+/* CSS code */
+/* CSS code */
+
+

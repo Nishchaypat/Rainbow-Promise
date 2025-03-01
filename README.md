@@ -29,4 +29,3 @@ Explore the website at: https://the-rainbow-promise--nishchaypat.repl.co/
 For direct access to the petition page, visit: https://unit6project.nishchaypat.repl.co/
 
 
-
